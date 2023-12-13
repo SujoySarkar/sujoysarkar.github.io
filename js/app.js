@@ -29,7 +29,7 @@ function parseURLSearch(search) {
 const app = Vue.createApp({
   data() {
     return {
-      secret_key: 'JBSWY3DPEHPK3PXP',
+      secret_key: 'ABCDEFGHIJKLMNOP',
       digits: 6,
       period: 30,
       algorithm: 'SHA1',
